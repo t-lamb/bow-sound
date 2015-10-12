@@ -1,4 +1,4 @@
-# bow-sound
+# Sound-Responsive Bow
 
 This is a program for a sound-responsive bow-tie by Teresa Lamb in October 2015. 
 This project uses an Arduino Gemma v2, an Electret Microphone Op Amp, and a Flora RGB Smart Neopixel. The Neopixel changes color based on changes in volume.
